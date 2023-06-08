@@ -1,0 +1,141 @@
+.icon_head > img {
+  width: 24px;
+  margin-right: 10px;
+  background: none;
+}
+
+.icon_head {
+  display: flex;
+  align-items: center;
+  background: none;
+}
+.icon_head > input:active,
+.icon_head > input,
+.icon_head > input:focus {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #6e6e6e;
+  border: none;
+  outline: none;
+  background: none;
+  width: 70%;
+}
+
+.left_card > button {
+  height: 27px;
+  width: 27px;
+  border-radius: 12px;
+  background: #353945;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.left_card {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background: none;
+  padding-top: 20px;
+}
+
+.main_card-containner {
+  height: 116px;
+  width: 250px;
+  border-radius: 16px;
+  background: #191b20;
+  padding-inline: 15px;
+  padding-block: 10px;
+
+  margin-block: 20px;
+}
+
+.main_card-containner > textarea {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #6e6e6e;
+  border: none;
+  outline: none;
+  background: none;
+  width: 90%;
+  height: 50%;
+  margin-top: 10px;
+  margin-left: 14px;
+}
+
+.show_card > button {
+  height: 27px;
+  width: 27px;
+  border-radius: 12px;
+  background: #353945;
+  border: none;
+  cursor: pointer;
+}
+.show_card > button > img {
+  width: 14px;
+  background: none;
+}
+
+.card-containner {
+  height: 116px;
+  width: 250px;
+  border-radius: 16px;
+  background: #191b20;
+  padding-inline: 15px;
+  padding-block: 10px;
+  margin-block: 10px;
+}
+
+.show-icon_head > img {
+  width: 24px;
+  margin-right: 10px;
+  background: none;
+}
+
+.show-icon_head > h1 {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #ffffff;
+  background: none;
+}
+
+.card-containner > p {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #808191;
+  background: none;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.show-icon_head {
+  display: flex;
+  align-items: center;
+  background: none;
+}
+
+.show_card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: none;
+  margin-top: 12px;
+}
